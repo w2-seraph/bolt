@@ -14,7 +14,7 @@
     "dependencies": {
         "blueimp-file-upload": "9.32.0",
         "bootbox": "~4.4.0",
-        "bootstrap-sass": "~3.4.1",
+        "bootstrap-sass": "~3.4.3",
         "dropzone": "^5.5.1",
         "font-awesome": "~4.7.0",
         "jquery": "~2.2.4",
